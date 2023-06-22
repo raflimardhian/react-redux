@@ -1,0 +1,12 @@
+{
+    "passenger":{
+        "title": "Mr" ,
+        "first_name": "Joko" ,
+        "last_name": "widodo" ,
+        "date_of_birth": "20/06/1945" ,
+        "country": "Indonesia" ,
+        "identity_number": "410200619450003" ,
+        "identity_number_of_country": "1321315153" ,
+        "expired_date": "10/03/2023"
+    }
+}
