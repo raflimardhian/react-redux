@@ -2,8 +2,8 @@
     "passenger":[{
         "id": 1 ,
         "title": "Mr" ,
-        "first_name": "joko" ,
-        "last_name": "widodo" ,
+        "first_name": "abdul" ,
+        "last_name": "latif" ,
         "date_of_birth": "20/06/1945" ,
         "country": "Indonesia" ,
         "identity_number": 410200619450003 ,
@@ -13,8 +13,8 @@
     {
         "id": 2 ,
         "title": "Mr" ,
-        "first_name": "joko" ,
-        "last_name": "widodo" ,
+        "first_name": "ahmad" ,
+        "last_name": "maulana" ,
         "date_of_birth": "20/06/1945" ,
         "country": "Indonesia" ,
         "identity_number": 410200619450003 ,
